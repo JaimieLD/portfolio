@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td><b>Application</b></td>
-    <td>Redacted ToolName</td>
+    <td>RedactedToolName</td>
   </tr>
   <tr>
     <td><b>Product Lead</b></td>
@@ -42,19 +42,19 @@
 
 #### Problem Statement
 
-text here
+The "ECR" (RedactedToolName) process presently is the largest bottleneck in the overall "CM" process for the RedactedBusinessUnitInfo. Specifically, the ability to initiate the process as well as identify status, actions/next steps, and responsible parties for actions does not exist so "ECR" tickets stagnate at various stages of their lifecycle for weeks, months, or in extreme cases years before being closed out.
 
 #### Opportunity
 
 text here
 
----
+By utilizing RedactedToolName APIs to surface up "ECR" tickets within the RedactedToolName interface, users would be able to quickly drill down to view open actions assigned to them and easily navigate into supporting workflows within one cohesive UI, allowing for immediate action to be taken. Simply by surfacing up the data in a navigable way, RedactedToolName would drastically reduce the cycle time of the "CM" process. By further integrating and automating inputs between the "ECR" ticket and the "IA" step, there would be a drastic reduction in touch-time for executing on the activities as well as a reduction in human error in the inputs.
 
 ### Business Value / Success Metrics
 
 #### Impact
 
-text here
+Streamlined "CR" management will lead to a drastic reduction in overall "CM" process cycle time as "CRs" have been identified as the largest bottleneck in the overall process.
 
 #### Reach
 
@@ -62,7 +62,7 @@ text here
 
 #### Time Criticality
 
-text here
+There are inefficient work arounds available today, so this effort is not blocking production efforts. However, there is a high error rate with the manual work arounds, so the goal is to provide MVP functionality within 1-quarter and then to reevaluate needs and urgency for follow-up iterations.
 
 #### Metrics
 

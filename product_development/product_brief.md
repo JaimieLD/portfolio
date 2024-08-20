@@ -46,8 +46,6 @@ The "ECR" (RedactedToolName) process presently is the largest bottleneck in the 
 
 #### Opportunity
 
-text here
-
 By utilizing RedactedToolName APIs to surface up "ECR" tickets within the RedactedToolName interface, users would be able to quickly drill down to view open actions assigned to them and easily navigate into supporting workflows within one cohesive UI, allowing for immediate action to be taken. Simply by surfacing up the data in a navigable way, RedactedToolName would drastically reduce the cycle time of the "CM" process. By further integrating and automating inputs between the "ECR" ticket and the "IA" step, there would be a drastic reduction in touch-time for executing on the activities as well as a reduction in human error in the inputs.
 
 ### Business Value / Success Metrics
@@ -58,7 +56,7 @@ Streamlined "CR" management will lead to a drastic reduction in overall "CM" pro
 
 #### Reach
 
-text here
+A successful tool supporting the "CR" process would be leveraged by, at minimum, the entire "CDMA" and "RE" community – a user base of approximately ### individuals. The dashboard & search functionality could have broader usage across the business than can presently be estimated. (Possible user base of #,###+ individuals.)
 
 #### Time Criticality
 
@@ -72,16 +70,27 @@ text here
 
 ### Stakeholders
 
-text here
+* RedactedName; Sr Mgr, "ECDM"
+* RedactedName; Director, "EDI"
+* RedactedName; "PASE"
+* RedactedName; Analyst, "CDM"
 
 ---
 
 ### Roadmap
 
-text here
+<"Macro": Advanced Roadmaps for Jira in Confluence | url = placeholder>
 
 ---
 
 ### Page Tree
 
-text here
+<"Macro": Children Display | depth=2>
+
+## Research: RedactedToolName "CR" v1 (Child Page, level = 1)
+
+<"Macro": Table of Contents | type = flat | maxLevel = 1>
+
+### Research Questions
+*This content was captured in a separate research plan document for this feature.* <br>
+Research plan document: <Link | url>

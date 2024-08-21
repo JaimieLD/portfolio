@@ -2,17 +2,21 @@
 
 ```mermaid
 
+%% last used ID = id26
+
 flowchart LR
 
 subgraph C Suite
 id01((High Level Product Strategy))
 id04[Product Pitch/Vetting]
 id14((Vetted, No))
+id26[Leadership Acceptance]
 end
 
 id01 --"No"--> id14
 id01 --"Yes"--> id04
 id04 --"Yes"--> id12
+id23 --> id26
 
 subgraph Customer Success & Analytics
 id02((Customer Feedback))
@@ -20,12 +24,17 @@ id03((Team Recommendation))
 id05[Vetting]
 id06((Vetted, No))
 id07{Recommend Platform Product}
+id24[Adaptive Services Development]
+id25[User Acceptance Testing]
 end
 
 id02 --> id05
 id03 --> id05
 id05 --"No"--> id06
 id05 --"Yes"--> id07
+id05 --"No"--> id24
+id24 --> id25
+id23 --> id25
 
 subgraph Product Management
 id08((Team Recommendation))

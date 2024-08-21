@@ -104,7 +104,7 @@ There are inefficient work arounds available today, so this effort is not blocki
   <th>Target(s)</th>
  </tr>
  <tr>
-  <td rowspan=2>Qualitative</td>
+  <td rowspan=2><b>Qualitative</b></td>
   <td>"CR" rejection reason analysis</td>
   <td>Manual Analysis</td>
   <td>
@@ -133,7 +133,7 @@ There are inefficient work arounds available today, so this effort is not blocki
   <td>TBD - need to first determine baseline</td>
  </tr>
  <tr>
-  <td rowspan=2>Both</td>
+  <td rowspan=2><b>Both</b></td>
   <td>Customer Satisfaction Baseline</td>
   <td>Survey</td>
   <td>
@@ -162,7 +162,7 @@ There are inefficient work arounds available today, so this effort is not blocki
   <td>##%+ increase in scoring results from baseline</td>
  </tr>
  <tr>
-  <td rowspan=4>Quantitative</td>
+  <td rowspan=4><b>Quantitative</b></td>
   <td>Number of "CRs" created via RedactedToolName</td>
   <td>RedactedToolName</td>
   <td>

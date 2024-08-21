@@ -7,9 +7,11 @@ flowchart LR
 subgraph C Suite
 id01((High Level Product Strategy))
 id04[Product Pitch/Vetting]
+id14((Vetted, No))
 end
 
-id01 --"No"--> id04
+id01 --"No"--> id14
+id01 --"Yes"--> id04
 id04 --"Yes"--> id12
 
 subgraph Customer Success & Analytics
@@ -40,5 +42,37 @@ id09 --"Yes"--> id11
 id07 --"Yes"--> id11
 id11 --> id12
 id12 --"Yes"--> id13
+id13 --> id21
+
+subgraph Development
+id15((Team Recommendation))
+id16[Vetting]
+id17((Vetted, No))
+id18{Engineering Roadmap?}
+id19[Technical Feasibility]
+id20[Project Planning]
+id21[Development]
+id22[Pre-release Testing]
+id23{Acceptance Testing}
+end
+
+id15 --> id16
+id16 --"No"--> id17
+id16 --"Yes"--> id18
+id18 --"No"--> id11
+id18 --"Yes"--> id19
+id19 --> id20
+id20 --> id21
+id21 --> id22
+id22 --> id23
 
 ```
+
+---
+
+## Notes & Additional Context
+
+* The production version of this document was built in Lucidchart utilizing BPMN2.0 - I have done my best to recreate this diagram using a Mermaid flowchart, however there will be some missing notation that isn't supported by Mermaid
+* The following activities also have subprocesses under each of them, also captured in the Lucidchart version:
+  * Adaptive Services Development
+  * Discovery

@@ -64,7 +64,157 @@ There are inefficient work arounds available today, so this effort is not blocki
 
 #### Metrics
 
-text here
+<table>
+ <tr>
+  <th>Qualitative Feedback</th>
+  <th>Quantitative Feedback</th>
+ </tr>
+ <tr>
+  <td>
+   <ul>
+    <li>Customer satisfaction survey prior to launch and after launch (UX + Product)
+    <ul>
+     <li>Perceived time savings (by persona)
+    </ul>
+    <li>Analyze rejection reasons
+    <li>Determine why approvals are cleared
+    <li>Understand if dashboard has helped users
+   </ul>
+  </td>
+  <td>
+   <ul>
+    <li>Customer satisfaction survey prior to launch and after launch (UX + Product)
+    <li>Number of "CRs" created in RedactedToolName
+    <li>Data quality (analyze the number of edits)
+    <li>RedactedToolName dashboard (weekly monitoring)
+    <li>Number of help desk inquiries / number of clicks on the help icon
+    <li>Track number of times the approvals are cleared
+   </ul>
+  </td>
+ </tr>
+</table>
+<table>
+ <tr>
+  <th></th>
+  <th>KPI</th>
+  <th>Collection Method(s)</th>
+  <th>Owner(s)</th>
+  <th>Frequency</th>
+  <th>Timing</th>
+  <th>Target(s)</th>
+ </tr>
+ <tr>
+  <td rowspan=2>Qualitative</td>
+  <td>"CR" rejection reason analysis</td>
+  <td>Manual Analysis</td>
+  <td>
+   <ul>
+    <li>Researcher
+    <li>UX Lead
+    <li>Product Analyst
+   </ul>
+  </td>
+  <td>Bi-Weekly</td>
+  <td>Begin 1-week post go-live</td>
+  <td>TBD - need to first determine baseline</td>
+ </tr>
+ <tr>
+  <td>"CR" approval reason analysis</td>
+  <td>Manual Analysis</td>
+  <td>
+   <ul>
+    <li>Researcher
+    <li>UX Lead
+    <li>Product Analyst
+   </ul>
+  </td>
+  <td>Bi-Weekly</td>
+  <td>Begin 1-week post go-live</td>
+  <td>TBD - need to first determine baseline</td>
+ </tr>
+ <tr>
+  <td rowspan=2>Both</td>
+  <td>Customer Satisfaction Baseline</td>
+  <td>Survey</td>
+  <td>
+   <ul>
+    <li>Reseacher
+    <li>UX Lead
+    <li>Product Analyst
+   </ul>
+  </td>
+  <td>1 time</td>
+  <td>30-days prior to go-live</td>
+  <td>n/a</td>
+ </tr>
+ <tr>
+  <td>Customer Satisfaction</td>
+  <td>Survey</td>
+  <td>
+   <ul>
+    <li>Researcher
+    <li>UX Lead
+    <li>Product Analyst
+   </ul>
+  </td>
+  <td>1 time</td>
+  <td>30-days post go-live</td>
+  <td>##%+ increase in scoring results from baseline</td>
+ </tr>
+ <tr>
+  <td rowspan=4>Quantitative</td>
+  <td>Number of "CRs" created via RedactedToolName</td>
+  <td>RedactedToolName</td>
+  <td>
+   <ul>
+    <li>Technical Project Manager
+    <li>Product Analyst
+   </ul>
+  </td>
+  <td>Weekly</td>
+  <td>Begin 1-week post go-live</td>
+  <td>Week 1: ##<br>Weeks 2+: ##% increase week over week</td>
+ </tr>
+ <tr>
+  <td>Data quality analysis (# of edits)</td>
+  <td>RedactedToolName</td>
+  <td>
+   <ul>
+    <li>Technical Project Manager
+    <li>Product Analyst
+   </ul>
+  </td>
+  <td>Weekly</td>
+  <td>Begin 1-week post go-live</td>
+  <td>##% of all "CRs" created for the week</td>
+ </tr>
+ <tr>
+  <td>Number of help desk inquiries vs. clicks on help icon</td>
+  <td>RedactedToolName</td>
+  <td>
+   <ul>
+    <li>Technical Project Manager
+    <li>Product Analyst
+   </ul>
+  </td>
+  <td>Weekly</td>
+  <td>Begin 1-week post go-live</td>
+  <td>Help desk inquiries ##% of help icon interacts</td>
+ </tr>
+ <tr>
+  <td>Number of approvals cleared</td>
+  <td>RedactedToolName</td>
+  <td>
+   <ul>
+    <li>Technical Project Manager
+    <li>Product Analyst
+   </ul>
+  </td>
+  <td>Weekly</td>
+  <td>Begin 1-week post go-live</td>
+  <td>TBD - need to first determine baseline</td>
+ </tr>
+</table>
 
 ---
 

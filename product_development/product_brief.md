@@ -281,10 +281,41 @@ Conceptual experience/navigation walk-through (subject to change based on UX des
 
 ### Links/Documentation
 
-text here
+* links to external documentation utilized in research efforts
 
 ---
 
 ## Additional Content
 
-text here
+The following are additional sections that would be built out as part of a Product Brief - over the course of Discovery - in partnership with Dev. However, details have been omitted due to sensitivity of information contained.
+
+* Development: RedactedToolName "CR" v1 (Child Page, Level = 1)
+  * Development Estimates
+    * Developer Level of Effort (LOE) Estimates
+    * Roadmap
+  * Development
+    * App Access
+    * Code Access
+    * API Documentation
+    * Architecture
+    * Data Model
+    * Security Strategy
+    * Quality Assurance
+    * Links / Documentation
+* Delivery: RedactedToolName "CR" v1 (Child Page, Level = 1)
+  * User Evaluation
+  * Pilot Program
+    * Summary
+      * Goals
+      * Pilot Results Readout
+      * Links
+    * Metrics
+    * Logistics
+      * Timing
+      * Target Audience
+      * Activities
+      * Pilot Release Checklist
+  * Release Checklist
+  * Communication Plan
+  * Training Plan
+  * Links / Documentation

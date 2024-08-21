@@ -6,8 +6,30 @@
 * *All contents of this document are my own work, though not an exhaustive representation of my inputs. I have chosen to omit some sections where the inputs were supplied by other parties to limit the scope of this document to examples of my own work for the purposes of evaluating my skillset and capabilities.*
 * *This write-up was in support of a new feature to an existing custom software solution, so there is context that the full project/product team already had regarding the tools referenced that may not be fully captured in this document.*
 
+# Table of Contents
+* [Product Summary](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#product-summary-parent-level)
+  * [Product Details](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#product-details)
+  * [Summary](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#summary)
+    * [Problem Statement](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#problem-statement)
+    * [Opportunity](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#opportunity)
+  * [Business Value/Success Metrics](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#business-value--success-metrics)
+    * [Impact](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#impact)
+    * [Reach](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#reach)
+    * [Time Criticality](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#time-criticality)
+    * [Metrics](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#metrics)
+  * [Stakeholders](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#stakeholders)
+  * [Roadmap](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#roadmap)
+  * [Page Tree](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#page-tree)
+* [Research: RedactedToolName "CR" v1 - Child Page, level = 1](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#research-redactedtoolname-cr-v1-child-page-level--1)
+  * [Research Questions](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#research-questions)
+  * [Method](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#method)
+  * [Findings](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#findings)
+    * [Requirements](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#requirements)
+  * [Links/Documentation](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#linksdocumentation)
+* [Additional Content](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#additional-content)
+
 ## Product Summary (Parent Level)
-<"Macro": Table of Conents | type = flat | maxLevel = 1>
+<"Macro": Table of Contents | type = flat | maxLevel = 1>
 
 ### Product Details
 <!--need to do some formatting on this table still-->

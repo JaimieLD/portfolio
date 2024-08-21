@@ -193,6 +193,88 @@ Conceptual experience/navigation walk-through (subject to change based on UX des
     <td><b>I'm an assignee</b> Quick List</b></td>
     <td><"Macro": Jira | Key = BEAR-###></td>
    </tr>
+   <tr>
+    <td><b>I'm a reporter</b> Quick List</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td><b>I'm an approver</b> Quick List</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td><b>I'm watching</b> Quick List</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Quick Lists with no "CRs" and Subtasks</td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Number of Records in Quick Lists</td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Pagination</td>
+    <td>Paginated quick lists to handle displaying the large number of "CRs" and Subtasks.</td>
+    <td>Pagination</td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Filtering</td>
+    <td></td>
+    <td>Project Filter for <b>All "ECRs"</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td rowspan=7>Filtering</td>
+    <td rowspan=7>Each quick list's filters vary, but the core filters are: Project, Reporter, Assignee, Label, Status, Component, Fix Version, and Type.</td>
+    <td>Reporter, Assignee, & Label Filters for <b>All "ECRs"</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Status Filter for <b>All "ECRs"</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Component and Fix Version Filters for <b>All "ECRs"</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Filters for <b>I'm an approver</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Filters for <b>I'm an assignee</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Filters for <b>I'm a reporter</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Filters for <b>I'm watching</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td rowspan=2>Searching</td>
+    <td rowspan=2>Exact match search on the "CR"/Subtask's Key field. Partial match search on the "CR"/Subtask's Summary field.</td>
+    <td>Search <b>All "ECRs"</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Search <b>I'm an Assignee/Reporter/Approver/Watching</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td rowspan=2>Sorting</td>
+    <td rowspan=2>Ascending and descending sorting on selected fields.</td>
+    <td>Sort <b>All "ECRs"</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td>Sort <b>I'm an Assignee/Reporter/Approver/Watching</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
 </table>
 
 ---

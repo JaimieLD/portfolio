@@ -1,5 +1,16 @@
 # Weekly Status Update Example
 
+## Table of Contents
+
+* [ProductLineA](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#productlinea)
+  * [Accomplishments / Completed Work](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#accomplishments--completed-work)
+  * [Misses / Blockers](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#misses--blockers)
+  * [Next Steps](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#next-steps)
+* [ProductLineB](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#productlineb)
+  * [Accomplishments / Completed Work](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#accomplishments--completed-work-1)
+  * [Misses / Blockers](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#misses--blockers-1)
+  * [Next Steps](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#next-steps-1)
+
 ## ProductLineA
 | Product Lead | Priority | Target Delivery | Risk Status |
 | ------------ | -------- | --------------- | ----------- |
@@ -67,7 +78,7 @@ Filtered view of roadmap embedded in original Confluence page using Project Plan
 ### Misses / Blockers
 * n/a
 
-## Next Steps
+### Next Steps
 * BIA to work on finalizing the remaining metrics, which TPA will then synthesize over the next couple of weeks via presentation as well.
   * Link to Metric4
   * Link to Metric5

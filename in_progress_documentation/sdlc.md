@@ -9,7 +9,8 @@ id01((High Level Product Strategy))
 id04[Product Pitch/Vetting]
 end
 
-id01 --> id04
+id01 --"No"--> id04
+id04 --"Yes"--> id12
 
 subgraph Customer Success & Analytics
 id02((Customer Feedback))
@@ -29,11 +30,15 @@ id08((Team Recommendation))
 id09[Vetting]
 id10((Vetted, No))
 id11{Decision Intake}
+id12{Platform Decision}
+id13[Discovery]
 end
 
 id08 --> id09
 id09 --"No"--> id10
 id09 --"Yes"--> id11
 id07 --"Yes"--> id11
+id11 --> id12
+id12 --"Yes"--> id13
 
 ```

@@ -169,7 +169,31 @@ Conceptual experience/navigation walk-through (subject to change based on UX des
 
 #### Requirements
 
-table here
+<table>
+ <tr>
+  <th colspan=4>"CR" Dashboard Epic: <"Macro": Jira | Key = BEAR ####></th>
+ </tr>
+   <tr>
+    <th>Requirement</th>
+    <th>Summary</th>
+    <th>Short Description</th>
+    <th>Jira Ticket</th>
+   </tr>
+   <tr>
+    <td rowspan=8>Quick List Pages</td>
+    <td rowspan=8>Display the list of "CRs" and Subtasks for ReactedPrograms. The <b>All "ECRs"</b> list displays all the "CRs".<br><br>The other quick list pages display "CRs" and Subtasks (except for the <b>I'm an approver</b> page because there are no Subtask Approvers).</td>
+    <td>Add <b>"CRs"</b> to RedactedToolName Navigation</td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td><b>All "ECRs"</b> Quick List</td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+   <tr>
+    <td><b>I'm an assignee</b> Quick List</b></td>
+    <td><"Macro": Jira | Key = BEAR-###></td>
+   </tr>
+</table>
 
 ---
 

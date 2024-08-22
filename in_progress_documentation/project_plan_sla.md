@@ -1,8 +1,17 @@
-# Summary/Context
-
-# Table of Contents
-
 # TeamA-TeamB SLA's Project Plan
+
+*Notes:*
+
+## Table of Contents
+ * [Project Roles & Responsibilities](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#project-roles--responsibilities)
+ * [Project Charter & Objectives](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#project-charter--objectives)
+ * [What is in scope?](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#what-is-in-scope)
+ * [What is not in scope?](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#what-is-not-in-scope)
+ * [Critical Milestones & Timeline](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#critical-milestones--timeline)
+   * [Re-planning Activities](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#re-planning-activities)
+     * [Completed](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#completed)
+   * [Updated Project Plan (Jira)](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#updated-project-plan-jira)
+
 ## Project Roles & Responsibilities
 <table>
   <tr>

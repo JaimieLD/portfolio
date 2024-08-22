@@ -14,3 +14,4 @@ The following documentation is still in the process of being built out, and will
 Please feel free to contact me with any questions or to request any additional information:
 * [jaimieldavis90@gmail.com](mailto:jaimieldavis90@gmail.com)
 * 360.224.2238
+* [Find me on LinkedIn](https://www.linkedin.com/in/jaimie-l-davis/)

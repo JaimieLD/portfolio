@@ -52,3 +52,79 @@ As Company aims to mature it’s tools and processes related to mission critical
 - [x] Jaimie Davis | Update Jira accordingly to reflect TeamB project plan for SLA's implementation, including due dates and overall timelines
 
 ### Updated Project Plan (Jira)
+<table>
+  <tr>
+    <th>Activity</th>
+    <th>Responsible</th>
+    <th>Due Date</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>BEAR-#### - Updated Project Plan & Jira Tickets [CLOSED]</td>
+    <td><li>Jaimie Davis, TeamB</li></td>
+    <td>MMM DD, YYYY</td>
+    <td>[COMPLETE]</td>
+  </tr>
+  <tr>
+    <td>Data Contracts Kick-off Meeting</td>
+    <td><li>Director, TeamA</li><li>Data Analyst, TeamA</li></td>
+    <td>MMM DD, YYYY</td>
+    <td>[COMPLETE]</td>
+  </tr>
+  <tr>
+    <td>BEAR-#### - 1st Draft Agreement [CLOSED]</td>
+    <td><li>Jaimie Davis, TeamB</li><li>Director, TeamA</li></td>
+    <td>MMM DD, YYYY</td>
+    <td>[COMPLETE]</td>
+  </tr>
+  <tr>
+    <td>BEAR-#### - Incorporate Project Team Feedback [IN PROGRESS]<br><br>BEAR-#### - Severity Issue Ranking Feedback [CLOSED]<br><br>BEAR-#### - Rank Outstanding Tickets to Vet Rubric [IN PROGRESS]</td>
+    <td><li>Jaimie Davis, TeamB</li><li>SR Data Engineer, TeamB</li><li>Data Analyst, TeamA</li><li>Director, TeamA</li></td>
+    <td>MMM DD, YYYY</td>
+    <td>[IN PROGRESS]</td>
+  </tr>
+  <tr>
+    <td>BEAR-#### - Approver Review [REQUESTED]</td>
+    <td><li>Jaimie Davis, TeamB</li></td>
+    <td>MMM DD, YYYY</td>
+    <td>[NOT STARTED]</td>
+  </tr>
+  <tr>
+    <td>BEAR-#### - Deprecate Old Documents [REQUESTED]</td>
+    <td>Jaimie Davis, TeamB</td>
+    <td>MMM DD, YYYY</td>
+    <td>[NOT STARTED]</td>
+  </tr>
+</table>
+
+### ET Timelines for SLO's
+
+The below information was provided by Director, TeamA via Teams on MMM DD, YYYY.
+
+*Hi Jaimie, ET has a plan to develop the concept of 'data contracts' to address data-specific SLO's. Our first milestone is to document how Company will use data contracts, and define them for that purpose, by end of Q-. I scheduled a review with your team in mid-MMM to gather early feedback. Here's the overall goal in the context of the ET plan:*
+<table>
+  <tr>
+    <td><i>Business Value</i></td>
+    <td><i>Operational Excellence: Improve ET</i></td>
+    <td><i>Centralized and compliant business systems for process streamlining, cost reduction, data quality improvements</i></td>
+    <td><i>Enterprise Architecture: Service Management Maturity</i></td>
+    <td><i>Develop and implement a management framework for data contracts. Data contracts are documented agreements between data producers and consumers that define, basically, the structure, format, and rules for exchange. Data contracts ensure that downstream consumers of data are not impacted by upstream operational deficiencies, and when they do occur, there is a documented and agreed-to response for resolution (aka SLOs). The framework should integrate with other business continuity processes, such as Service Tiers, SLOs, Issue Severity, and RCA.</i></td>
+    <td><i><ol><li>Conceptualization of data contracts for Company (Q-)</li><li>Publish draft framework (Q-)</li><li>Execute pilot(s) (Q-)</li><li>Burn down of all in-scope interfaces (Q- - Q-)</li></ol></i></td>
+  </tr>
+</table>
+
+## Risk Management
+
+table here
+
+## Communications & Touch Points
+
+### Upcoming Meetings
+- [x]
+
+### Open Action Items
+- [x]
+
+## Meeting Notes
+### MM/DD/YYYY Data issues severity brainstorm 2 of 2
+notes here

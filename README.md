@@ -7,15 +7,15 @@ To help you better navigate this space, I have broken down what information is a
 
 The following documentation is still in the process of being built out, and will be moved out of the [in_progress_documentation](https://github.com/JaimieLD/pdm_portfolio/tree/main/in_progress_documentation) directory as each file is completed.
 * Business operations
-  * business_case_writeup
+  * business_case_writeup.md
 * Process documentation
   * [operating_model.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/operating_model.md)
 * Product development
   * [roadmap.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/roadmap.md)
 * Project management
-  * project_plan_sla
-  * project_plan_software_implementation
-  * project_charter_software_implementation
+  * [project_plan_sla.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md)
+  * project_plan_software_implementation.md
+  * project_charter_software_implementation.md
 
 Please feel free to contact me with any questions or to request any additional information:
 * [jaimieldavis90@gmail.com](mailto:jaimieldavis90@gmail.com)

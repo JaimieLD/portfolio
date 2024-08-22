@@ -6,7 +6,7 @@
 * *All contents of this document are my own work, though not an exhaustive representation of my inputs. I have chosen to omit some sections where the inputs were supplied by other parties to limit the scope of this document to examples of my own work for the purposes of evaluating my skillset and capabilities.*
 * *This write-up was in support of a new feature to an existing custom software solution, so there is context that the full project/product team already had regarding the tools referenced that may not be fully captured in this document.*
 
-# Table of Contents
+## Table of Contents
 * [Product Summary](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#product-summary-parent-level)
   * [Product Details](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#product-details)
   * [Summary](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md#summary)

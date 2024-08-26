@@ -84,7 +84,7 @@ Filtered view of roadmap embedded in original Confluence page using Project Plan
   * Link to Metric5
   * Link to Metric6
   * Link to Metric7
-* DM to let Jaimie know about how much user level input storing and and custom configuration are allowed by PowerBI.
+* DM to let Jaimie know about how much user level input storing and custom configuration are allowed by PowerBI.
 * Based on DM's information, Jaimie will draft a proposal for CPO on the prototype development plan.
 * TPM to continue adding metrics/scenarios to the user story map (linked) to identify requirements for those scenarios.
 * [date] TPM to conduct a walk through with CPO (+ UXR and Jaimie) of the work done to date on User Stories/Mapping and solicit inputs from CPO to refine direction and scope.

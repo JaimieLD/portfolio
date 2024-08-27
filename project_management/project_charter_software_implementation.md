@@ -1,14 +1,14 @@
 # Company Project Charter: System Time & Expense Module Implementation
 
 ## Table of Contents
-* [Background]()
-* [Goals]()
-* [Scope]()
-* [Key Stakeholders]()
-* [Project Milestones]()
-* [Project Budget]()
-* [Constraints, Assumptions, Risks and Dependencies]()
-* [Approval Signatures]()
+* [Background](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#background)
+* [Goals](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#goals)
+* [Scope](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#scope)
+* [Key Stakeholders](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#key-stakeholders)
+* [Project Milestones](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#project-milestones)
+* [Project Budget](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#project-budget)
+* [Constraints, Assumptions, Risks and Dependencies](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#constraints-assumptions-risks-and-dependencies)
+* [Approval Signatures](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#approval-signatures)
 
 ## Background
 During the summer of YYYY it was identified by Company’s executive leadership that there was a need to replace the existing time keeping solution in use. In addition to having a poor user interface and burdensome configurations to maintain, the flash based solution is due to be deprecated by the end of YYYY with the termination of flash support on all major browsers.

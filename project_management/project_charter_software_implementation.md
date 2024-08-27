@@ -1,5 +1,11 @@
 # Company Project Charter: System Time & Expense Module Implementation
 
+*Notes:*
+* *All the contents of this document have been scrubbed of real names, references to tools/systems/hardware, and any other otherwise sensitive or potentially proprietary information.*
+* *This document is regularly maintained in Microsoft Word, so some minor changes have been made to accommodate the formatting constraints outside of Word.*
+* *All contents of this document are my own work.*
+* *This project charter was in support of a company wide timekeeping system implementation/migration from a legacy system to a new module integrated with the company ERP system.*
+
 ## Table of Contents
 * [Background](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#background)
 * [Goals](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md#goals)

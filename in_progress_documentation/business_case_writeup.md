@@ -42,9 +42,37 @@ Jaimie Davis | MM-DD-YYYY
     <td>Current headcount of impacted population = 400</td>
     <td>
       <ul>
-        <li>Estimate from "Bob" = 400</li>
-        <li>Estimate from "Casey" (via "Devin") = 400</li>
+        <li>Estimate from "Adam" = 400</li>
+        <li>Estimate from "Bob" (via "Casey") = 400</li>
       </ul>
     </td>
   </tr>
+ <tr>
+  <td>B</td>
+  <td>Estimated headcount of impacted population by EOY YYYY = 45%
+    <ul>
+     <li>Quarterly growth Q2-Q4 = 15%</li>
+    </ul>
+  </td>
+  <td>
+     <ul>
+       <li>Estimate from "Devin" – currently at 620 FTE in BusinessUnit, expected to be at 900 by EOY = 45% growth</li>
+     </ul>
+  </td>
+ </tr>
+ <tr>
+  <td>C</td>
+  <td>
+   Population impacted by Tool = 42.5%
+   <ul>
+    <li>i.e. 42.5% of EDO would be directly impacted by this tool</li>
+   </ul>
+  </td>
+  <td>
+   <ul>
+    <li>Estimate from "Evan" of 20%-50% - average = 35%</li>
+    <li>Estimate from "Bob" (via "Casey") = 50%</li>
+   </ul>
+  </td>
+ </tr>
 </table>

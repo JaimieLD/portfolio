@@ -16,6 +16,7 @@ The following documentation is still in the process of being built out, and will
 * Process documentation
   * [operating_model.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/operating_model.md)
 * Product development
+  * [jira_management.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/jira_management.md)
   * [roadmap.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/roadmap.md)
 * Project management
   * [project_plan_software_implementation.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_software_implementation.md)

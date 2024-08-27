@@ -3,14 +3,26 @@
 *Notes:*
 
 ## Table of Contents
- * [Project Roles & Responsibilities](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#project-roles--responsibilities)
- * [Project Charter & Objectives](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#project-charter--objectives)
- * [What is in scope?](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#what-is-in-scope)
- * [What is not in scope?](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#what-is-not-in-scope)
- * [Critical Milestones & Timeline](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#critical-milestones--timeline)
-   * [Re-planning Activities](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#re-planning-activities)
-     * [Completed](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#completed)
-   * [Updated Project Plan (Jira)](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_sla.md#updated-project-plan-jira)
+ * [Project Roles & Responsibilities]()
+ * [Project Charter & Objectives]()
+ * [What is in scope?]()
+ * [What is not in scope?]()
+ * [Critical Milestones & Timeline]()
+   * [Re-planning Activities]()
+     * [Completed]()
+   * [Updated Project Plan (Jira)]()
+   * [BusinessUnit Timelines for SLO's]()
+* [Risk Management]()
+* [Communications & Touch Points]()
+  * [Upcoming Meetings]()
+  * [Open Action Items]()
+* [Meeting Notes]()
+  * [MM/DD/YYYY Data issues severity brainstorm 2 of 2]()
+    * [Attendees]()
+    * [Invite Details/Agenda (Director, TeamA)]()
+    * [Notes]()
+    * [Action Items]()
+    * [Risk(s) Discussed]()
 
 ## Project Roles & Responsibilities
 <table>
@@ -97,7 +109,7 @@ As Company aims to mature it’s tools and processes related to mission critical
   </tr>
 </table>
 
-### ET Timelines for SLO's
+### BusinessUnit Timelines for SLO's
 
 The below information was provided by Director, TeamA via Teams on MMM DD, YYYY.
 

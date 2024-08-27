@@ -4,6 +4,7 @@ To help you better navigate this space, I have broken down what information is a
 * To see work samples of my **product management documentation**, please see:
   * [product_brief.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/product_development/product_brief.md)
 * To see work samples of my **project management documentation**, please see:
+  * [project_charter_software_implementation.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_charter_software_implementation.md)
   * [project_plan_sla.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_plan_sla.md)
   * [weekly_status_update.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md)
 * To see work samples of my **process management and implementation documentation**, please see:
@@ -20,7 +21,6 @@ The following documentation is still in the process of being built out, and will
   * [roadmap.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/roadmap.md)
 * Project management
   * [project_plan_software_implementation.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_software_implementation.md)
-  * [project_charter_software_implementation.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_charter_software_implementation.md)
 
 Please feel free to contact me with any questions or to request any additional information:
 * [jaimieldavis90@gmail.com](mailto:jaimieldavis90@gmail.com)

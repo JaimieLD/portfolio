@@ -1,8 +1,10 @@
 # Table of Contents
-placeholder
+* Skills
+* Software
+* Coding
 
 # Skills
-Need to split skills, coding languages, and tools into separate tables.
+
 <table>
   <tr>
     <th>Skill</th>
@@ -11,25 +13,7 @@ Need to split skills, coding languages, and tools into separate tables.
     <th>Comments</th>
   </tr>
   <tr>
-    <td>Atlassian Confluence</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Atlassian Jira</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Business Strategy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>HTML</td>
     <td></td>
     <td></td>
     <td></td>
@@ -57,6 +41,45 @@ Need to split skills, coding languages, and tools into separate tables.
         <li>5-6 years business intelligence & software, technical project management</li>
       </ul>
     </td>
+  </tr>
+</table>
+
+# Software
+
+<table>
+  <tr>
+    <th>Software</th>
+    <th>Proficiency</th>
+    <th>Years of Experience</th>
+    <th>Comments</th>
+  </tr>
+  <tr>
+    <td>Atlassian Confluence</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Atlassian Jira</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+# Coding
+
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Proficiency</th>
+    <th>Years of Experience</th>
+    <th>Comments</th>
+  <tr>
+    <td>HTML</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>SQL</td>

@@ -76,3 +76,8 @@ Jaimie Davis | MM-DD-YYYY
   </td>
  </tr>
 </table>
+
+<sup>1</sup> See [Appendix A]() for full write-up from "T" - not all personas reflected in this calculation as not all had easily derived values.
+
+### Time-Phased Impacts to BU
+#### Q2-YYYY

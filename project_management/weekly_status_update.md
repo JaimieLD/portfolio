@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-* [ProductLineA](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#productlinea)
-  * [Accomplishments / Completed Work](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#accomplishments--completed-work)
-  * [Misses / Blockers](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#misses--blockers)
-  * [Next Steps](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#next-steps)
-* [ProductLineB](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#productlineb)
-  * [Accomplishments / Completed Work](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#accomplishments--completed-work-1)
-  * [Misses / Blockers](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#misses--blockers-1)
-  * [Next Steps](https://github.com/JaimieLD/pdm_portfolio/blob/main/reporting/weekly_status_update.md#next-steps-1)
+* [ProductLineA](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md#productlinea)
+  * [Accomplishments / Completed Work](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md#accomplishments--completed-work)
+  * [Misses / Blockers](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md#misses--blockers)
+  * [Next Steps](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md#next-steps)
+* [ProductLineB](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md#productlineb)
+  * [Accomplishments / Completed Work](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md#accomplishments--completed-work-1)
+  * [Misses / Blockers](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md#misses--blockers-1)
+  * [Next Steps](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/weekly_status_update.md#next-steps-1)
 
 ## ProductLineA
 | Product Lead | Priority | Target Delivery | Risk Status |

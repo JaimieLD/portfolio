@@ -1,6 +1,10 @@
 # TeamA-TeamB SLA's Project Plan
 
 *Notes:*
+* *All the contents of this document have been scrubbed of real names, references to tools/systems/hardware, and any other otherwise sensitive or potentially proprietary information.*
+* *This document is regularly maintained in Atlassian Confluence, so some minor changes have been made to accommodate the formatting constraints outside of Confluence.*
+* *All contents of this document are my own work, though not an exhaustive representation of my inputs.*
+* *This project plan was in support of negotiating Service Level Agreements (SLA's)/Service Level Objectives (SLO's) between a centralized enterprise technology team who administered the primary datawarehouse and my team which was a large scale consumer of the data.*
 
 ## Table of Contents
  * [Project Roles & Responsibilities](https://github.com/JaimieLD/pdm_portfolio/blob/main/project_management/project_plan_sla.md#project-roles--responsibilities)

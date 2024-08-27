@@ -54,7 +54,7 @@ Need to split skills, coding languages, and tools into separate tables.
       <ul>
         <li>3-4 years construction project management</li>
         <li>1-2 years manufacturing project management (food industry)</li>
-        <li>5-6 years business intelligence & software team, technical project management</li>
+        <li>5-6 years business intelligence & software, technical project management</li>
       </ul>
     </td>
   </tr>

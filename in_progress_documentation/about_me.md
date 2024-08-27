@@ -65,6 +65,12 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>JetBrains DataGrip IDE</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 # Coding
@@ -82,9 +88,20 @@
     <td></td>
   </tr>
   <tr>
+    <td>Python</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>SQL</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Oracle SQL</li>
+        <li>Redshift</li>
+      </ul>
+    </td>
   </tr>
 </table>

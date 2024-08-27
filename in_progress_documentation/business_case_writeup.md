@@ -2,6 +2,15 @@
 **Software Development**<br>
 Jaimie Davis | MM-DD-YYYY
 
+*Notes:*
+* *All the contents of this document have been scrubbed of real names, references to tools/systems/hardware, and any other otherwise sensitive or potentially proprietary information.*
+* *This document is regularly maintained in Microsoft Word, so some minor changes have been made to accommodate the formatting constraints outside of Word.*
+* *All contents of this document are my own work.*
+* ***This document was:***
+  * ***Created in its entirety by me in the effort to secure additional budget in April of a fiscal year, ammending original & faulty estimates provided by director's of the business unit the prior year.***
+  * ***Successfully utilized to secure approximately $3,000,000 in additional funding for the year for the requested resources outlined.***
+  * ***Was so well received by the executive leadership team that this format was mandated as the new standard for any such budget requests within the business unit moving forward.***
+
 ## Table of Contents
 * [Efficiency Gains - Tool]()
   * [Assumptions]()

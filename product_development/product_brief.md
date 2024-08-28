@@ -3,7 +3,7 @@
 *Notes:*
 * *All the contents of this document have been scrubbed of real names, references to tools/systems/hardware, and any other otherwise sensitive or potentially proprietary information.*
 * *This document is regularly maintained in Atlassian Confluence, so some minor changes have been made to accommodate the formatting constraints outside of Confluence.*
-* *All contents of this document are my own work, though not an exhaustive representation of my inputs. I have chosen to omit some sections where the inputs were supplied by other parties to limit the scope of this document to examples of my own work for the purposes of evaluating my skillset and capabilities.*
+* *This document was built out collaboratively within my team, with large portions being built by myself (though not an exhaustive representation of my inputs) and the rest being built under my guidance. I have chosen to omit some sections where the inputs were supplied by other parties to limit the scope of this document to examples of my own work and inputs for the purposes of evaluating my skillset and capabilities.*
 * *This write-up was in support of a new feature to an existing custom software solution, so there is context that the full project/product team already had regarding the tools referenced that may not be fully captured in this document.*
 
 ## Table of Contents

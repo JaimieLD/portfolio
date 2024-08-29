@@ -1,7 +1,8 @@
 # Table of Contents
-* Skills
-* Software
-* Coding
+* Skills Summary
+  * Skills
+  * Software
+  * Coding
 * Peer Feedback
   * Direct Report (Process Analyst) - July 2023
   * Direct Report (Technical Project Manager) - May 2023
@@ -9,7 +10,8 @@
   * Direct Report (Product Analyst) - May 2023
   * Direct Report, Consultant (Product Analyst) - March 2023
 
-# Skills
+# Skills Summary
+## Skills
 
 <table>
   <tr>
@@ -32,13 +34,13 @@
   </tr>
   <tr>
     <td>Program Management</td>
-    <td></td>
-    <td></td>
+    <td>Moderate</td>
+    <td>5+</td>
     <td></td>
   <tr>
     <td>Product Management</td>
     <td>High</td>
-    <td></td>
+    <td>3-5</td>
     <td></td>
   </tr>
   <tr>
@@ -55,7 +57,7 @@
   </tr>
 </table>
 
-# Software
+## Software
 
 <table>
   <tr>
@@ -84,7 +86,7 @@
   </tr>
 </table>
 
-# Coding
+## Coding
 
 <table>
   <tr>
@@ -95,19 +97,19 @@
   <tr>
     <td>HTML</td>
     <td>Low-Moderate</td>
-    <td></td>
+    <td>1-2</td>
     <td></td>
   </tr>
   <tr>
     <td>Python</td>
     <td>Low-Moderate</td>
-    <td></td>
+    <td>1-2</td>
     <td></td>
   </tr>
   <tr>
     <td>SQL</td>
     <td>Moderate</td>
-    <td></td>
+    <td>3-5</td>
     <td>
       <ul>
         <li>Oracle SQL</li>

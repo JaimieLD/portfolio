@@ -1,6 +1,8 @@
 # Analytics, Reporting, and Software Team Operating Model
 ## Table of Contents
-
+* Team Structure
+  * Functional
+  * Operational
 
 ## Team Structure
 ### Functional

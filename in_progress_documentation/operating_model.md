@@ -63,14 +63,63 @@ id24["Quality Assurance"]
 space
 
 %% row label styling
-style id01 fill:#f0f0f0,stroke:#b4b4b4,stroke-width:2px
-style id03 fill:#f0f0f0,stroke:#b4b4b4,stroke-width:2px
-style id05 fill:#f0f0f0,stroke:#b4b4b4,stroke-width:2px
-style id07 fill:#f0f0f0,stroke:#b4b4b4,stroke-width:2px
-style id09 fill:#f0f0f0,stroke:#b4b4b4,stroke-width:2px
-style id13 fill:#f0f0f0,stroke:#b4b4b4,stroke-width:2px
+style id01 fill:#f0f0f0, stroke:#b4b4b4, stroke-width:2px
+style id03 fill:#f0f0f0, stroke:#b4b4b4, stroke-width:2px
+style id05 fill:#f0f0f0, stroke:#b4b4b4, stroke-width:2px
+style id07 fill:#f0f0f0, stroke:#b4b4b4, stroke-width:2px
+style id09 fill:#f0f0f0, stroke:#b4b4b4, stroke-width:2px
+style id13 fill:#f0f0f0, stroke:#b4b4b4, stroke-width:2px
 
 
 ```
 
 ### Operational
+
+```mermaid
+
+block-beta
+
+columns 5
+
+%% pods
+space
+id01["CM Pod"]
+id02["TM Pod"]
+id03["ME Pod"]
+id04["A&R"]
+%% styling
+%% style id01 fill:#f0f0f0, stroke:#b4b4b4
+%% style id02 fill:#f0f0f0, stroke:#b4b4b4
+%% style id03 fill:#f0f0f0, stroke:#b4b4b4
+%% style id04 fill:#f0f0f0, stroke:#b4b4b4
+
+%% quality assurance
+id05["Quality Assurance"]
+id06["QA Lead"]:2
+space
+space
+%% styling
+%% style id05 fill:#ffcc80, stroke:#fcbb58
+%% style id06 fill:#fcdeb1, stroke:#fcd79f
+
+%% dev engineering
+id07["Dev Engineering"]
+
+block:group1:4
+columns 4
+id08["Dev Lead A"]
+id09["Dev Lead B"]
+id10["Dev Lead C"]
+id11["BI Lead"]
+id12["Full Stack Dev"]
+id13["Jr Full Stack Dev"]
+id14["Full Stack Dev"]
+id15["BI Analyst"]
+end
+
+%% data engineering
+
+
+%% 
+
+```

@@ -21,8 +21,8 @@ The following documentation is still in the process of being built out, and will
   * [roadmap.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/roadmap.md)
 * Project management
   * [project_plan_software_implementation.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/project_plan_software_implementation.md)
-* Employee development and performance management
-  * [employee_performance_management.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/employee_performance_management.md)
+* Employee management
+  * [employee_development_plan.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/employee_development_plan.md)
 
 Please feel free to contact me with any questions or to request any additional information:
 * [jaimieldavis90@gmail.com](mailto:jaimieldavis90@gmail.com)

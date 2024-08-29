@@ -1,6 +1,7 @@
 Hello, and thank you for taking the time to review my portfolio!
 
 To help you better navigate this space, I have broken down what information is available and where you can find it below.
+* To get more detail about my skills and background, please see the [about_me.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md) file
 * To see work samples of my **program management documentation**, please see:
   * [business_case_writeup.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/program_management/business_case_writeup.md)
 * To see work samples of my **product management documentation**, please see:
@@ -13,7 +14,6 @@ To help you better navigate this space, I have broken down what information is a
   * [sdlc.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/process/sdlc.md)
 
 The following documentation is still in the process of being built out, and will be moved out of the [in_progress_documentation](https://github.com/JaimieLD/pdm_portfolio/tree/main/in_progress_documentation) directory as each file is completed.
-* [about_me.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/about_me.md)
 * Process documentation
   * [operating_model.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/in_progress_documentation/operating_model.md)
 * Product development

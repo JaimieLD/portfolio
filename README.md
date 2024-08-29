@@ -1,7 +1,7 @@
 Hello, and thank you for taking the time to review my portfolio!
 
 To help you better navigate this space, I have broken down what information is available and where you can find it below.
-* To get more detail about my skills and background, please see the [about_me.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md) file
+* To get more detail about my skills and background, please see the [about_me.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md) file. (I will be continuing to expand on this file for the foreseeable future so be sure to check back!)
 * To see work samples of my **program management documentation**, please see:
   * [business_case_writeup.md](https://github.com/JaimieLD/pdm_portfolio/blob/main/program_management/business_case_writeup.md)
 * To see work samples of my **product management documentation**, please see:

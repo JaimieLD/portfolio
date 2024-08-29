@@ -1,14 +1,14 @@
 # Table of Contents
-* Skills Summary
-  * Skills
-  * Software
-  * Coding
-* Peer Feedback
-  * Direct Report (Process Analyst) - July 2023
-  * Direct Report (Technical Project Manager) - May 2023
-  * Peer Bar Raiser (SR Manager, Avionics) - May 2023
-  * Direct Report (Product Analyst) - May 2023
-  * Direct Report, Consultant (Product Analyst) - March 2023
+* [Skills Summary](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#skills-summary)
+  * [Skills](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#skills)
+  * [Software](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#software)
+  * [Coding](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#coding)
+* [Peer Feedback](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#peer-feedback)
+  * [Direct Report (Process Analyst) - July 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-process-analyst---july-2023)
+  * [Direct Report (Technical Project Manager) - May 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-technical-project-manager---may-2023)
+  * [Peer Bar Raiser (SR Manager, Avionics) - May 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#peer-bar-raiser-sr-manager-avionics---may-2023)
+  * [Direct Report (Product Analyst) - May 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-product-analyst---may-2023)
+  * [Direct Report, Consultant (Product Analyst) - March 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-consultant-product-analyst---march-2023)
 
 # Skills Summary
 ## Skills

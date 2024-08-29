@@ -76,14 +76,40 @@
     <td>Atlassian Jira</td>
     <td>Moderate-High</td>
     <td>5+</td>
-    <td></td>
+    <td>
+     <ul>
+      <li>Proficient in JQL</li>
+     </ul>
+    </td>
   </tr>
+ <tr>
+  <td>Figma</td>
+  <td>2-3</td>
+  <td>Moderate</td>
+  <td>
+   <ul>
+    <li>Utilizing Figjam for whiteboarding exercises</li>
+   </ul>
+  </td>
+ </tr>
   <tr>
     <td>JetBrains DataGrip IDE</td>
     <td>Moderate</td>
     <td>2+</td>
     <td></td>
   </tr>
+  <tr>
+  <td>Lucidchart</td>
+  <td>Moderate</td>
+  <td>2+</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>MS Project Professional</td>
+  <td>Moderate-High</td>
+  <td>3+</td>
+  <td></td>
+ </tr>
 </table>
 
 ## Coding

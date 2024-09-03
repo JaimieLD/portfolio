@@ -9,6 +9,8 @@
   * [Peer Bar Raiser (SR Manager, Avionics) - May 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#peer-bar-raiser-sr-manager-avionics---may-2023)
   * [Direct Report (Product Analyst) - May 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-product-analyst---may-2023)
   * [Direct Report, Consultant (Product Analyst) - March 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-consultant-product-analyst---march-2023)
+* [More About Me]()
+  * [Hobbies and Interests]()
 
 # Skills Summary
 ## Skills
@@ -166,3 +168,60 @@
 ## Direct Report, Consultant (Product Analyst) - March 2023
 * **Context**: In response to the “send-off” message I sent to the team in advance of the employee’s departure
 * **Feedback**: “*Thank you so much for the kind words, taking the time to write that, and for your overall support in my sabbatical! This email was easily one of the kindest and most supportive thing a Manager has done for me in terms of leaving a project or transitioning to something new. You are such a great leader and I look up to you so much!*”
+
+# More About Me
+## Hobbies and Interests
+<table>
+ <tr>
+  <th>Activity</th>
+  <th>More Info</th>
+ </tr>
+ <tr>
+  <td>Arts & Crafts</td>
+  <td>
+   <ul>
+    <li>Cross-stitch</li>
+    <li>Drawing</li>
+    <li>Watercolor</li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td>Cooking & Baking</td>
+  <td>
+   <ul>
+    <li>Cooking for a split diet household (vegetarian/non-vegetarian)</li>
+    <li>Canning & preservation</li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td>DIY</td>
+  <td>
+   <ul>
+    <li>DIY renovating a house</li>
+    <li>Antique furniture restoration</li>
+   </ul>
+  </td>
+ </tr>
+ <tr>
+  <td>Gaming</td>
+  <td>
+    <ul>
+      <li>My intro to gaming: Halo CE</li>
+      <li>My favorite comfort game: Stardew Valley</li>
+      <li>Other current games: Terraria, V Rising</li>
+    </ul>
+  </td>
+ </tr>
+ <tr>
+  <td>Hobby Farm</td>
+  <td>
+   <ul>
+    <li>20 pet chickens</li>
+    <li>Pollinator garden</li>
+    <li>Vegetable garden</li>
+   </ul>
+  </td>
+ </tr>
+</table>

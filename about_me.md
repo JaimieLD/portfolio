@@ -9,8 +9,8 @@
   * [Peer Bar Raiser (SR Manager, Avionics) - May 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#peer-bar-raiser-sr-manager-avionics---may-2023)
   * [Direct Report (Product Analyst) - May 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-product-analyst---may-2023)
   * [Direct Report, Consultant (Product Analyst) - March 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-consultant-product-analyst---march-2023)
-* [More About Me]()
-  * [Hobbies and Interests]()
+* [More About Me](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#more-about-me)
+  * [Hobbies and Interests](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#hobbies-and-interests)
 
 # Skills Summary
 ## Skills

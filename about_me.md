@@ -161,7 +161,7 @@
   <td>
    <ul>
     <li>Presently compiling project history</li>
-    <li>Next step, PMP course at UW (targeting Q4-2024/Q1-2025)</li>
+    <li>Next step, <a href="https://www.pce.uw.edu/certificates/project-management">PMP course at UW</a> (targeting Q4-2024/Q1-2025)</li>
    </ul>
   </td>
  </tr>

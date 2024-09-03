@@ -3,6 +3,7 @@
   * [Skills](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#skills)
   * [Software](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#software)
   * [Coding](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#coding)
+  * [Future Development]()
 * [Peer Feedback](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#peer-feedback)
   * [Direct Report (Process Analyst) - July 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-process-analyst---july-2023)
   * [Direct Report (Technical Project Manager) - May 2023](https://github.com/JaimieLD/pdm_portfolio/blob/main/about_me.md#direct-report-technical-project-manager---may-2023)
@@ -145,6 +146,25 @@
       </ul>
     </td>
   </tr>
+</table>
+
+## Future Development
+<table>
+ <tr>
+  <th>Activity</th>
+  <th>Status</th>
+  <th>Summary</th>
+ </tr>
+ <tr>
+  <td>Project Management Professional (PMP) Certification</td>
+  <td>In Progress</td>
+  <td>
+   <ul>
+    <li>Presently compiling project history</li>
+    <li>Next step, PMP course at UW (targeting Q4-2024/Q1-2025)</li>
+   </ul>
+  </td>
+ </tr>
 </table>
 
 # Peer Feedback

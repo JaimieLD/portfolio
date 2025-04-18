@@ -73,6 +73,20 @@ main {
   flex: 50%;
 }
 
+.highlights .column {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 50%;
+}
+
+.personal .column {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 50%;
+}
+
 footer {
   text-align: center;
   padding: 20px;
